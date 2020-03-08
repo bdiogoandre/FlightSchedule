@@ -1,0 +1,16 @@
+C:\Users\Bruno\FlightSchedule\FlightSchedule.Infra.CrossCutting.Extention\bin\Debug\netcoreapp3.1\FlightSchedule.Infra.CrossCutting.Extention.deps.json
+C:\Users\Bruno\FlightSchedule\FlightSchedule.Infra.CrossCutting.Extention\bin\Debug\netcoreapp3.1\FlightSchedule.Infra.CrossCutting.Extention.dll
+C:\Users\Bruno\FlightSchedule\FlightSchedule.Infra.CrossCutting.Extention\bin\Debug\netcoreapp3.1\FlightSchedule.Infra.CrossCutting.Extention.pdb
+C:\Users\Bruno\FlightSchedule\FlightSchedule.Infra.CrossCutting.Extention\obj\Debug\netcoreapp3.1\FlightSchedule.Infra.CrossCutting.Extention.csprojAssemblyReference.cache
+C:\Users\Bruno\FlightSchedule\FlightSchedule.Infra.CrossCutting.Extention\obj\Debug\netcoreapp3.1\FlightSchedule.Infra.CrossCutting.Extention.AssemblyInfoInputs.cache
+C:\Users\Bruno\FlightSchedule\FlightSchedule.Infra.CrossCutting.Extention\obj\Debug\netcoreapp3.1\FlightSchedule.Infra.CrossCutting.Extention.AssemblyInfo.cs
+C:\Users\Bruno\FlightSchedule\FlightSchedule.Infra.CrossCutting.Extention\obj\Debug\netcoreapp3.1\FlightSchedule.Infra.CrossCutting.Extention.dll
+C:\Users\Bruno\FlightSchedule\FlightSchedule.Infra.CrossCutting.Extention\obj\Debug\netcoreapp3.1\FlightSchedule.Infra.CrossCutting.Extention.pdb
+C:\Users\Bruno\FlightSchedule\Backend\FlightSchedule.Infra.CrossCutting.Extention\bin\Debug\netcoreapp3.1\FlightSchedule.Infra.CrossCutting.Extention.deps.json
+C:\Users\Bruno\FlightSchedule\Backend\FlightSchedule.Infra.CrossCutting.Extention\bin\Debug\netcoreapp3.1\FlightSchedule.Infra.CrossCutting.Extention.dll
+C:\Users\Bruno\FlightSchedule\Backend\FlightSchedule.Infra.CrossCutting.Extention\bin\Debug\netcoreapp3.1\FlightSchedule.Infra.CrossCutting.Extention.pdb
+C:\Users\Bruno\FlightSchedule\Backend\FlightSchedule.Infra.CrossCutting.Extention\obj\Debug\netcoreapp3.1\FlightSchedule.Infra.CrossCutting.Extention.csprojAssemblyReference.cache
+C:\Users\Bruno\FlightSchedule\Backend\FlightSchedule.Infra.CrossCutting.Extention\obj\Debug\netcoreapp3.1\FlightSchedule.Infra.CrossCutting.Extention.AssemblyInfoInputs.cache
+C:\Users\Bruno\FlightSchedule\Backend\FlightSchedule.Infra.CrossCutting.Extention\obj\Debug\netcoreapp3.1\FlightSchedule.Infra.CrossCutting.Extention.AssemblyInfo.cs
+C:\Users\Bruno\FlightSchedule\Backend\FlightSchedule.Infra.CrossCutting.Extention\obj\Debug\netcoreapp3.1\FlightSchedule.Infra.CrossCutting.Extention.dll
+C:\Users\Bruno\FlightSchedule\Backend\FlightSchedule.Infra.CrossCutting.Extention\obj\Debug\netcoreapp3.1\FlightSchedule.Infra.CrossCutting.Extention.pdb

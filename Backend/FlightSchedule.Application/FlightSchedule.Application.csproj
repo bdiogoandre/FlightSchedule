@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FlightSchedule.Domain\FlightSchedule.Domain.csproj" />
+    <ProjectReference Include="..\FlightSchedule.Infra.CrossCutting.Configuration\FlightSchedule.Infra.CrossCutting.Configuration.csproj" />
+  </ItemGroup>
+
+</Project>
