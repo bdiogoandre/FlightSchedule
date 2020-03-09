@@ -35,7 +35,7 @@ Faça o clone desse repositório em sua máquina local e realize os procesimento
 
 #### Passos
 
-1. Abra o diretório **FlightSchedule\Frontend** na linha de commando e execute **npm install --save** e em seguida **ng serve --open**
+1. Abra o diretório **FlightSchedule\Frontend** na linha de commando e execute **npm install --save** em seguida **ng serve --open**
 * Irá instalar todas as dependências e executar a aplicação Angular em seu navegador.
 
 2. Abra o diretório **FlightSchedule\Backend\FlightSchedule** na linha de commando e execute **dotnet run**
