@@ -1,7 +1,11 @@
-# FlightSchedule
+# Flight Schedule
 
 ## Cadastro em .NET Core Web API + Angular + Material + MongoDB
 Este projeto é um exemplo de um cadastro básico de um agendador de voos.
+* Arquitetura baseada em DDD (Domain Driven Design).
+* Simples teste unitário utilizando TDD com xUnit e NSubstitute.
+* Injeção de dependências.
+* Autenticação com OAuth JWT do .NET Core.
 
 O objetivo é compartilhar um pouco da experiência acerca do desenvolvimento WEB utilizando novas tecnologias.
 
