@@ -77,7 +77,7 @@ Faça o clone desse repositório em sua máquina local e realize os procesimento
 4. Abra http://localhost:4200 em seu navegador
 
 #### Login e Senha para acessar.
-Login: admin
-Senha: 123456
+##### Login: admin
+##### Senha: 123456
 
 ## E divirta-se!!!
