@@ -1,0 +1,41 @@
+<div class="flight-list" fxFlex="100%" fxLayoutAlign="center center">
+    <table mat-table [dataSource]="flightData" class="mat-elevation-z8">
+        <!--- Note that these columns can be defined in any order.
+                The actual rendered columns are set as a property on the row definition" -->
+    
+        <!-- Position Column -->
+        <ng-container matColumnDef="nome">
+            <th mat-header-cell *matHeaderCellDef> Nome </th>
+            <td mat-cell *matCellDef="let element"> <a matTooltip="Modificar" [routerLink]="['/update-flight', element.id]" routerLinkActive="router-link-active" > {{element.nome}} </a></td>
+        </ng-container>
+    
+        <!-- Name Column -->
+        <ng-container matColumnDef="origem">
+            <th mat-header-cell *matHeaderCellDef> Origem </th>
+            <td mat-cell *matCellDef="let element">{{element.origem}}</td>
+        </ng-container>
+    
+        <!-- Weight Column -->
+        <ng-container matColumnDef="destino">
+            <th mat-header-cell *matHeaderCellDef> Destino </th>
+            <td mat-cell *matCellDef="let element"> {{element.destino}} </td>
+        </ng-container>
+    
+        <!-- Symbol Column -->
+        <ng-container matColumnDef="dataHoraPartida">
+            <th mat-header-cell *matHeaderCellDef> Data/Hora Partida </th>
+            <td mat-cell *matCellDef="let element"> {{element.dataHoraPartida | date : 'dd/MM/yyyy HH:mm'}} </td>
+        </ng-container>
+        <ng-container matColumnDef="delete">
+            <th mat-header-cell *matHeaderCellDef> </th>
+            <td mat-cell *matCellDef="let element"> 
+              <button (click)="delete(element.id)" matTooltip="Excluir" mat-icon-button>
+                <mat-icon>delete</mat-icon>
+              </button> 
+            </td>
+        </ng-container>
+    
+        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+        <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </table>
+</div>

@@ -31,7 +31,6 @@ namespace FlightSchedule.Application
                     new Claim(ClaimTypes.Name, user.Login),
                     new Claim(ClaimTypes.Role, _role)
                 }),
-                Expires = DateTime.UtcNow.AddHours(2),
                 SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
             };
             var token = tokenHandler.CreateToken(tokenDescriptor);

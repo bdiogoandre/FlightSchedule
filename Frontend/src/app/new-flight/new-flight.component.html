@@ -1,0 +1,32 @@
+<div class="new-contact" fxFlex="100%" fxLayoutAlign="center" fxLayout="column">
+    <div style="width: 100%;" fxLayoutAlign="center">
+        <mat-card fxFlex="60%" fxLayoutAlign="center">
+            <form fxFlex="90%" fxLayout="column" [formGroup]="flightForm" (ngSubmit)="onSubmit(flightForm.value)">
+                <h3>NOVO AGENDAMENTO</h3>
+                <input type="hidden" formControlName="id">
+                <div class="new-flight">    
+                    <div fxLayout="row" fxLayoutGap="25px">
+                        <mat-form-field fxFlex="100%">
+                            <input matInput type="text" placeholder="Nome" formControlName="nome">
+                        </mat-form-field>
+                        <mat-form-field fxFlex="100%">
+                            <input matInput type="text" placeholder="Origem" formControlName="origem">
+                           
+                        </mat-form-field>
+                        <mat-form-field fxFlex="100%">
+                            <input matInput type="text" placeholder="Destino" formControlName="destino">
+                        </mat-form-field>
+                    </div>
+                    <div fxLayout="row" fxLayoutGap="15px">
+                        <mat-form-field fxFlex="100%">
+                            <input matInput type="datetime-local" placeholder="Data/Hora de Partida" formControlName="dataHoraPartida">
+                        </mat-form-field>
+                    </div>
+                </div>
+                <div class="submit-button">
+                    <button fxFlex="100%" mat-raised-button type="submit" color="primary">Finalizar</button>
+                </div>
+            </form>
+        </mat-card>
+    </div>
+</div>
