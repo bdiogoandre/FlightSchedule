@@ -1,4 +1,4 @@
-# FlightSchadule
+# FlightSchedule
 
 ## Cadastro em .NET Core Web API + Angular + Material + MongoDB
 Este projeto é um exemplo de um cadastro básico de um agendador de voos.
