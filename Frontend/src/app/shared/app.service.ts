@@ -60,7 +60,7 @@ export class AppService{
   }
   private handleError<T>(operation, result?: T){
     return (error: any): Observable<T> => {
-      this._snackBar.open(operation, error.status, {
+      this._snackBar.open(JSON.stringify(error.error.errors[0]), error.status, {
         duration: 4000,
       })
       console.error(error);

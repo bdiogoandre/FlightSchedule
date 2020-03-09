@@ -85,10 +85,10 @@ C:\Users\Bruno\FlightSchedule\Backend\FlightSchedule\bin\Debug\netcoreapp3.1\Fli
 C:\Users\Bruno\FlightSchedule\Backend\FlightSchedule\obj\Debug\netcoreapp3.1\FlightSchedule.Services.Api.csprojAssemblyReference.cache
 C:\Users\Bruno\FlightSchedule\Backend\FlightSchedule\obj\Debug\netcoreapp3.1\staticwebassets\FlightSchedule.Services.Api.StaticWebAssets.Manifest.cache
 C:\Users\Bruno\FlightSchedule\Backend\FlightSchedule\obj\Debug\netcoreapp3.1\staticwebassets\FlightSchedule.Services.Api.StaticWebAssets.xml
-C:\Users\Bruno\FlightSchedule\Backend\FlightSchedule\obj\Debug\netcoreapp3.1\FlightSchedule.Services.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Bruno\FlightSchedule\Backend\FlightSchedule\obj\Debug\netcoreapp3.1\FlightSchedule.Services.Api.AssemblyInfoInputs.cache
 C:\Users\Bruno\FlightSchedule\Backend\FlightSchedule\obj\Debug\netcoreapp3.1\FlightSchedule.Services.Api.AssemblyInfo.cs
 C:\Users\Bruno\FlightSchedule\Backend\FlightSchedule\obj\Debug\netcoreapp3.1\FlightSchedule.Services.Api.RazorTargetAssemblyInfo.cache
 C:\Users\Bruno\FlightSchedule\Backend\FlightSchedule\obj\Debug\netcoreapp3.1\FlightSchedule.Services.Api.csproj.CopyComplete
 C:\Users\Bruno\FlightSchedule\Backend\FlightSchedule\obj\Debug\netcoreapp3.1\FlightSchedule.Services.Api.dll
 C:\Users\Bruno\FlightSchedule\Backend\FlightSchedule\obj\Debug\netcoreapp3.1\FlightSchedule.Services.Api.pdb
+C:\Users\Bruno\FlightSchedule\Backend\FlightSchedule\obj\Debug\netcoreapp3.1\FlightSchedule.Services.Api.MvcApplicationPartsAssemblyInfo.cache

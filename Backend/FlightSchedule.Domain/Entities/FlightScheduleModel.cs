@@ -40,7 +40,7 @@ namespace FlightSchedule.Domain.Entities
 
                 if(DataHoraPartida.CompareTo(DateTime.Now) < 0)
                 {
-                    Errors.Add(ProblemsDetail.GenerateError(nameof(DataHoraPartida), "A data e hora de partida não pode ser a data e hora atual"));
+                    Errors.Add(ProblemsDetail.GenerateError(nameof(DataHoraPartida), "A data e hora de partida não pode ser menor do que a data e hora atual"));
                     validationResult = false;
                 }
 
