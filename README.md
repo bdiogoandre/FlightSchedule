@@ -1,7 +1,11 @@
-# FlightSchadule
+# Flight Schedule
 
 ## Cadastro em .NET Core Web API + Angular + Material + MongoDB
 Este projeto é um exemplo de um cadastro básico de um agendador de voos.
+* Arquitetura baseada em DDD (Domain Driven Design).
+* Simples teste unitário utilizando TDD com xUnit e NSubstitute.
+* Injeção de dependências.
+* Autenticação com OAuth JWT do .NET Core.
 
 O objetivo é compartilhar um pouco da experiência acerca do desenvolvimento WEB utilizando novas tecnologias.
 
@@ -35,7 +39,7 @@ Faça o clone desse repositório em sua máquina local e realize os procesimento
 
 #### Passos
 
-1. Abra o diretório **FlightSchedule\Frontend** na linha de commando e execute **npm install --save** e em seguida **ng serve --open**
+1. Abra o diretório **FlightSchedule\Frontend** na linha de commando e execute **npm install --save** em seguida **ng serve --open**
 * Irá instalar todas as dependências e executar a aplicação Angular em seu navegador.
 
 2. Abra o diretório **FlightSchedule\Backend\FlightSchedule** na linha de commando e execute **dotnet run**
